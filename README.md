@@ -13,6 +13,8 @@ Issue: Output[0] may be incorrect.
 Gradient-Descent Backpropagation - 10 Trainings/Tick
 ![Control 10 Trainings](https://raw.github.com/Dreslok/neuralNet/master/BackpropDemo.gif)
 Resilient Backpropagation - 10 Trainings/Tick
+
 ![RPROP 10 Trainings](https://raw.github.com/Dreslok/neuralNet/master/RpropDemo.gif)
 RPROP - 1 Training/Tick
+
 ![RPROP 1 Tick](https://raw.github.com/Dreslok/neuralNet/master/RpropDemo2.gif)
